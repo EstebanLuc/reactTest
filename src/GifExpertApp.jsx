@@ -9,6 +9,7 @@ export const GifExpertApp = () => {
     setCategories(cat => [...cat,"valorant"])
   } 
 
+  
 
   return (
    <>
